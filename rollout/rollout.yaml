@@ -30,6 +30,6 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: your-dockerhub-username/nodejs-app:latest
+        image: csborle/node-todo-app
         ports:
         - containerPort: 8000
