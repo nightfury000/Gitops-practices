@@ -1,5 +1,5 @@
 # Gitops-proj
-The images here are not rendered properly so please go to this link for detailed overview of task [Task Documentation](https://pages.github.com/](https://nightfury000.github.io/task_notes/Task)
+The images here are not rendered properly so please go to this link for detailed overview of task [Task Documentation](https://nightfury000.github.io/task_notes/Task)
 ### Task 1: Setup and Configuration
 
 1. **Create a GitRepository: Create a Github repository and host your source code in the same repository.**
